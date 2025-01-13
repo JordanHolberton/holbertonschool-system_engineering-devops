@@ -1,6 +1,6 @@
 ### **Explanation of Components**
 
-![SimpleWebStack](Img/0-simple_web_stack.png)
+![SimpleWebStack](Img/SimpleWebStack.png)
 
 1. **What is a server?**  
    A server is a physical or virtual machine that provides resources, services, or functionality to other devices or programs (clients). In this case, it hosts the website.
